@@ -13,7 +13,7 @@
 | /rest-auth/password/reset               | POST     |
 | /rest-auth/password/reset/confirm       | POST     |
 | openapi/                                | GET      |
-|____________________________________________________|
 
-More about Schema of this project [here](openapi-schema.yml)
+
+More about Schema of this project [here](.openapi-schema.yml)
 

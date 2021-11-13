@@ -1,5 +1,5 @@
 # BlogAPI
-##Blog API using Django Rest Framework as a sample to learn DRF. The API has following endpoints:
+## Blog API using Django Rest Framework as a sample to learn DRF. The API has following endpoints:
 
 |Endpoint                                 | HTTP Verb|
 |-----------------------------------------|----------|
@@ -15,5 +15,5 @@
 | openapi/                                | GET      |
 
 
-More about Schema of this project [here](.openapi-schema.yml)
+More about Schema of this project [here](./Blogapi/openapi-schema.yml)
 

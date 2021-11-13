@@ -15,5 +15,5 @@
 | openapi/                                | GET      |
 
 
-More about Schema of this project [here](./Blogapi/openapi-schema.yml)
+More about Schema of this project [here](blogapi/openapi-schema.yml)
 
